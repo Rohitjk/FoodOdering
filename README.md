@@ -1,8 +1,8 @@
 # FoodOdering
 
-This project is entitled with FOOD ORDERING SYSTEM. 
-This action is developed using php technology and MYSQL as back end and HTML, CSS and JAVASCRIPT  as the front end. T
-he objective behind the project  is to make the food available to the customers at their doorstep. 
+This project is entitled FOOD ORDERING SYSTEM. 
+This is developed using php and MYSQL as back end and HTML, CSS and JAVASCRIPT  as the front end. 
+The objective behind the project  is to make the food available to the customers at their doorstep. 
 The customer needs to fill in the basic details, choice of food, address for delivery and mode of payment preferred.
 The admin will then register the order and the delivery will initiate.
 
